@@ -22,6 +22,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "83005a45cf3bb499",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9ff505c01fd1e95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lezioni/2025-09-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-24"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200.5,
+    "collapsed": true
   },
   "right": {
     "id": "26ad9e967c7ebde6",
@@ -166,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,12 +203,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6b837bd542872d4c",
+  "active": "d9ff505c01fd1e95",
   "lastOpenFiles": [
-    "Sbobine IA/2025-09-26.md",
-    "Sbobine IA/2025-09-24.md",
     "Sbobine Masticate/2025-09-24.md",
     "Lezioni/2025-09-24.md",
+    "Sbobine IA/2025-09-26.md",
+    "Sbobine IA/2025-09-24.md",
     "Lezioni/2025-09-26.md",
     "Sbobine Masticate/2025-09-26.md",
     "Sbobine IA/Untitled.md",
