@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sbobine Masticate/2025-09-24.md",
+                "file": "Lezioni/2025-09-24.md",
                 "mode": "source",
                 "source": false
               },
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lezioni/2025-09-24.md",
+                "file": "Sbobine IA/2025-09-24.md",
                 "mode": "source",
                 "source": false
               },
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5,
-    "collapsed": true
+    "width": 200.5
   },
   "right": {
     "id": "26ad9e967c7ebde6",
@@ -203,12 +202,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d9ff505c01fd1e95",
+  "active": "6b837bd542872d4c",
   "lastOpenFiles": [
     "Sbobine Masticate/2025-09-24.md",
-    "Lezioni/2025-09-24.md",
-    "Sbobine IA/2025-09-26.md",
     "Sbobine IA/2025-09-24.md",
+    "Lezioni/2025-09-24.md",
+    "Excalidraw/Drawing 2025-09-27 18.38.34.excalidraw.md",
+    "Excalidraw",
+    "Sbobine IA/2025-09-26.md",
     "Lezioni/2025-09-26.md",
     "Sbobine Masticate/2025-09-26.md",
     "Sbobine IA/Untitled.md",
@@ -232,7 +233,6 @@
     "Home Page.md",
     "Lezioni/2024-10-03.md",
     "Libri/APPUNTI-SN-settembre-2024.pdf",
-    "Libri/Calcolo delle probabilità (Sheldon M. Ross).pdf",
     "Lezioni/2023-12-01.md",
     "Lezioni/2023-11-29.md",
     "LatexSnippets.md",
@@ -245,7 +245,6 @@
     "Excalidraw/Scripts/Downloaded/Fixed inner distance.md",
     "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
     "Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.md",
-    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Pasted image 20240930204722.png"
   ]
