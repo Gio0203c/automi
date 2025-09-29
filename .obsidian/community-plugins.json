@@ -11,5 +11,6 @@
   "oz-image-plugin",
   "obsidian-excalidraw-plugin",
   "obsidian-discordrpc",
-  "editing-toolbar"
+  "editing-toolbar",
+  "image-converter"
 ]
