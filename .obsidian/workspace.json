@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lezioni/2025-09-24.md",
+                "file": "Lezioni/2025-09-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-24"
+              "title": "2025-09-26"
             }
           }
         ]
@@ -184,6 +184,8 @@
   },
   "active": "6b837bd542872d4c",
   "lastOpenFiles": [
+    "Lezioni/2025-09-24.md",
+    "Lezioni/2025-09-26.md",
     "Immagini/lez01_porta.drawio.svg",
     "draw.io/lez01_porta.drawio",
     "Immagini/lez01_03.drawio.svg",
@@ -194,10 +196,8 @@
     "draw.io/lez01_02.drawio",
     "Immagini/lez01_01.drawio.svg",
     "Immagini/lez01_01.svg",
-    "Lezioni/2025-09-26.md",
     "Vediamo.pdf",
     "Vediamo.svg",
-    "Lezioni/2025-09-24.md",
     "draw.io/lez01_01.drawio",
     "draw.io",
     "drawio",
@@ -228,7 +228,6 @@
     "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md",
     "Excalidraw/Scripts/Downloaded/Reset LaTeX Size.md",
     "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.svg",
-    "Excalidraw/Scripts/Downloaded/Modify background color opacity.svg",
     "Excalidraw/Scripts/Downloaded/Fixed inner distance.md"
   ]
 }
