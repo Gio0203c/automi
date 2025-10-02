@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README.md"
+              "title": "README"
             }
           }
         ],
@@ -218,10 +218,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "66c1a65994190363",
+  "active": "71903a7aea9c0190",
   "lastOpenFiles": [
     "Sbobine IA/2025-10-01.md",
-    "README.md.md",
+    "README.md",
     "Sbobine IA/2025-10-03.md",
     "Lezioni/2025-10-03.md",
     "Immagini/lez02_03.drawio.svg",
