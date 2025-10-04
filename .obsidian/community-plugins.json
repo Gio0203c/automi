@@ -9,7 +9,7 @@
   "table-extended",
   "oz-image-plugin",
   "obsidian-excalidraw-plugin",
-  "obsidian-discordrpc",
   "image-converter",
-  "editing-toolbar"
+  "editing-toolbar",
+  "obsidian-discordrpc"
 ]
