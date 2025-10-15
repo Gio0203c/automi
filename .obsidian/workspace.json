@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,11 +182,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c0aed873769182e8",
+  "active": "71903a7aea9c0190",
   "lastOpenFiles": [
+    "Immagini/lez06_piccioni.drawio.svg",
+    "draw.io/lez06_piccioni.drawio",
     "Lezioni/2025-10-08.md",
-    "Lezioni/2025-10-03.md",
+    "Immagini/lez06_01.drawio.svg",
+    "draw.io/lez06_01.drawio",
     "Lezioni/2025-10-10.md",
+    "Untitled.md",
+    "Lezioni/2025-10-03.md",
     "Sbobine IA/2025-10-10.md",
     "Sbobine Masticate/2025-10-10.md",
     "2025-10-10 1 1.md",
@@ -208,26 +214,21 @@
     "Excalidraw/Drawing 2025-10-11 10.07.27.excalidraw.md",
     "Excalidraw",
     "draw.io/lez05_05.drawio",
-    "draw.io/lez05_099.drawio",
     "Immagini/lez05_03.drawio.svg",
-    "draw.io/lez05_04.drawio",
     "Lezioni/2025-10-01.md",
     "Sbobine IA/2025-10-01.md",
     "Sbobine IA/2025-10-03.md",
     "Lezioni/2025-09-26.md",
     "Immagini/lez05_02.drawio.svg",
-    "Immagini/lez05_01.drawio.svg",
     "Sbobine Masticate/2025-10-03.md",
     "Sbobine Masticate/2025-09-24.md",
     "Untitled 1.md",
-    "Untitled.md",
     "README.md",
     "Sbobine IA/2025-09-26.md",
     "Sbobine Masticate/2025-10-01.md",
     "Sbobine IA/2025-09-24.md",
     "Sbobine Masticate/2025-09-26.md",
     "Excalidraw/Drawing 2025-09-27 18.38.34.excalidraw.md",
-    "Sbobine IA/Untitled.md",
-    "Sbobine Masticate/Untitled.md"
+    "Sbobine IA/Untitled.md"
   ]
 }
